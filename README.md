@@ -8,7 +8,7 @@ Stormtroopers, easily identified by their iconic white armor, make up the Empero
 
 As a loyal citizen of the Empire, you have nothing to fear when confronted with a stormtrooper. Simply mind your own business, and there will be no need for escalation. Only speak to a stormtrooper if spoken to first, and never lie when asked a serious question. 
 
-<img src="https://static.wikia.nocookie.net/starwars/images/2/23/Mos_Eisley_Stormtroopers.jpg/revision/latest?cb=20171007181555" alt="Stormtrooper Questioning Innocent Civilians">
+<img src="https://lumiere-a.akamaihd.net/v1/images/image_961f5653.jpeg?height=354&region=0%2C0%2C629%2C354&width=630" alt="Stormtrooper Questioning Innocent Civilians">
 
 
 For more information on Stormtroopers, click [here](https://starwars.fandom.com/wiki/Stormtrooper)
