@@ -1,4 +1,4 @@
-## Stormtroopers are the backbone of the empire ##
+## Stormtroopers are the backbone of the empire 
 
 <img src="https://thenerdstash.com/wp-content/uploads/2022/05/Fortnite-Stormtrooper-Star-Wars.jpg.webp" alt="Stormtrooper In Action">
 
